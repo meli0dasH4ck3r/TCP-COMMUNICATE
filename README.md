@@ -40,7 +40,7 @@ The **TCP Chat** is a client-server communication system built using Python's `s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/meli0dasH4ck3r/TCP-CHAT.git
+   git clone https://github.com/meli0dasH4ck3r/TCP-COMMUNICATE.git
    ```
 2. Navigate to the project directory:
    ```bash
